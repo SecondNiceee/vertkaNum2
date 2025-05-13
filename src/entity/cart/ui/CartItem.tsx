@@ -1,4 +1,4 @@
-import React, { type FC, type SetStateAction } from "react";
+import  { type FC } from "react";
 import type { TCardOrders } from "../../../types/common/TCartOrders.type";
 
 interface ICartItem {

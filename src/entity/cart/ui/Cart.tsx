@@ -1,6 +1,5 @@
 import type { FC, SetStateAction } from "react";
 import type { TCardOrders } from "../../../types/common/TCartOrders.type";
-import type { TOrder } from "../../../types/common/TOrder.type";
 
 interface ICart{
     orders : TCardOrders[],
